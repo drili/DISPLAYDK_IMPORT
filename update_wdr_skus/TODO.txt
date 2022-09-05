@@ -1,0 +1,1 @@
+- [] Update æøå to work on DB
