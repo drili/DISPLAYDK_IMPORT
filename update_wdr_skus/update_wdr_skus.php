@@ -15,7 +15,7 @@
         <?php
             // --- Connect to DB
             // $mysqli = new mysqli("localhost","root","","display_dk_test");
-            $mysqli = new mysqli("mysql40.unoeuro.com","display_dk","G4mehAanfFxE","display_dk_db");
+            // $mysqli = new mysqli("mysql40.unoeuro.com","display_dk","G4mehAanfFxE","display_dk_db");
             $mysqli->set_charset("utf8");
 
             // - Check connection

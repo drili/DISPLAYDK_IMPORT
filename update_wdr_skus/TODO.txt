@@ -1,1 +1,1 @@
-- [] Update æøå to work on DB
+- [x] Update æøå to work on DB
